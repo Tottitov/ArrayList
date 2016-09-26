@@ -1,5 +1,4 @@
 // Student: Tony Nguyen
-// Student ID: U592R887
 // Assignment: 1
 // Updated: 08/13/16
 // Inventory array list
