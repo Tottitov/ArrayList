@@ -1,4 +1,4 @@
-# ArrayList
+# Tony's version of Inventory Array List
 Simple Array List program that takes inventory
 
 What I learned:
