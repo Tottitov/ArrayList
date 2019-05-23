@@ -1,8 +1,3 @@
-// Student: Tony Nguyen
-// Assignment: 1
-// Updated: 08/13/16
-// Inventory array list
-
 #include <iostream>
 #include <string>
 #include <fstream>
